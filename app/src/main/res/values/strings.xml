@@ -2,4 +2,5 @@
     <string name="app_name">Memory</string>
     <string name="app_title">Memory</string>
     <string name="action_settings">Settings</string>
+    <string name="choice_title">Choose Board Size</string>
 </resources>
